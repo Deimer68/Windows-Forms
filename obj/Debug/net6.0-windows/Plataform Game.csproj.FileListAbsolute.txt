@@ -1,0 +1,17 @@
+C:\Users\deime\source\repos\Plataform Game\bin\Debug\net6.0-windows\Plataform Game.exe
+C:\Users\deime\source\repos\Plataform Game\bin\Debug\net6.0-windows\Plataform Game.deps.json
+C:\Users\deime\source\repos\Plataform Game\bin\Debug\net6.0-windows\Plataform Game.runtimeconfig.json
+C:\Users\deime\source\repos\Plataform Game\bin\Debug\net6.0-windows\Plataform Game.dll
+C:\Users\deime\source\repos\Plataform Game\bin\Debug\net6.0-windows\Plataform Game.pdb
+C:\Users\deime\source\repos\Plataform Game\obj\Debug\net6.0-windows\Plataform_Game.Form1.resources
+C:\Users\deime\source\repos\Plataform Game\obj\Debug\net6.0-windows\Plataform Game.csproj.GenerateResource.cache
+C:\Users\deime\source\repos\Plataform Game\obj\Debug\net6.0-windows\Plataform Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deime\source\repos\Plataform Game\obj\Debug\net6.0-windows\Plataform Game.AssemblyInfoInputs.cache
+C:\Users\deime\source\repos\Plataform Game\obj\Debug\net6.0-windows\Plataform Game.AssemblyInfo.cs
+C:\Users\deime\source\repos\Plataform Game\obj\Debug\net6.0-windows\Plataform Game.csproj.CoreCompileInputs.cache
+C:\Users\deime\source\repos\Plataform Game\obj\Debug\net6.0-windows\Plataform Game.dll
+C:\Users\deime\source\repos\Plataform Game\obj\Debug\net6.0-windows\refint\Plataform Game.dll
+C:\Users\deime\source\repos\Plataform Game\obj\Debug\net6.0-windows\Plataform Game.pdb
+C:\Users\deime\source\repos\Plataform Game\obj\Debug\net6.0-windows\Plataform Game.genruntimeconfig.cache
+C:\Users\deime\source\repos\Plataform Game\obj\Debug\net6.0-windows\ref\Plataform Game.dll
+C:\Users\deime\source\repos\Plataform Game\obj\Debug\net6.0-windows\Plataform_Game.Properties.Resources.resources
